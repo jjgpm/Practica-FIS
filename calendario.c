@@ -16,7 +16,8 @@ struct Calendarios{
                                 /////////FIN ////////////////////////////
 
 
-//FUNCIONES CALENDARIO
+
+//Funciones calendario2.0
 
 void crearMes(FILE *calendar, int numerodias, char mes[],char anio[]);
 void crearCalendario(FILE *c);
